@@ -4,7 +4,7 @@ It is generated randomly.
 
 
 <h2>
- Password Generator
+For Use
   </h2>
 
 1.Install NPM packages
