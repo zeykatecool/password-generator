@@ -6,7 +6,7 @@ It is generated randomly.
 <h2>
  Password Generator
   </h2>
-### Installation
+## Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
