@@ -6,8 +6,8 @@ It is generated randomly.
 <h2>
  Password Generator
   </h2>
-<h3> 1. Install Packages </h3>
-   ```sh
+ 1. Install Packages
+ ```sh
    npm i quick.db@latest
    npm i cli-color@latest
    npm i generate-password@latest
