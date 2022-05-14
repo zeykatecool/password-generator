@@ -10,16 +10,12 @@ It is generated randomly.
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Install Packages
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   npm i quick.db@latest
+   npm i cli-color@latest
+   npm i generate-password@latest
+   npm i prompt-sync@latest
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+## Usage
+You can start clicking the start.bat file.
