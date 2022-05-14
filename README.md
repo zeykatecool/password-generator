@@ -7,15 +7,17 @@ It is generated randomly.
  Password Generator
   </h2>
  ### Installation
-1. Download the project
-  https://cdn.discordapp.com/attachments/861648402327404625/975103771606663238/unknown.png
-3. Install NPM packages
+
+1. Install NPM packages
    ```sh
-   npm install
+   npm install quick.db@latest
+   npm install generate-password@latest
+   npm install prompt-sync@latest
+   npm i cli-color@latest
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
- <h4>2.Usage</h4>
-You can start clicking the start.bat file.
+2.Start the project
+You can start by clicking the start.bat file.
+
+3.Important
+Please make sure the download Node.js.
+
