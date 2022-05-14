@@ -7,11 +7,11 @@ It is generated randomly.
  Password Generator
   </h2>
  <h3>1. Install Packages </h3>
- ```sh
+ `
    npm i quick.db@latest
    npm i cli-color@latest
    npm i generate-password@latest
    npm i prompt-sync@latest
-   ```
+   `
  <h4>2.Usage</h4>
 You can start clicking the start.bat file.
