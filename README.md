@@ -6,7 +6,6 @@ It is generated randomly.
 <h2>
  Password Generator
   </h2>
- ### Installation
 
 1. Install NPM packages
    ```sh
