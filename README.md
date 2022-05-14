@@ -7,7 +7,7 @@ It is generated randomly.
  Password Generator
   </h2>
 
-1. Install NPM packages
+1.Install NPM packages
    ```sh
    npm install quick.db@latest
    npm install generate-password@latest
