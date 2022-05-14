@@ -4,9 +4,6 @@ It is generated randomly.
 
 
 <h2>
-  Windows
+ Password Generator
   </h2>
- `npm i quick.db@latest` | Latest Version
-  `npm i generate-password@latest`
-  `npm i prompt-sync@latest`
-  `npm i cli-color`
+<li><a href="#installation">Installation</a></li>
