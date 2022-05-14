@@ -17,5 +17,5 @@ _Below is an example of how you can instruct your audience on installing and set
    npm i generate-password@latest
    npm i prompt-sync@latest
    ```
-## Usage
+ <h4>Usage</h4>
 You can start clicking the start.bat file.
