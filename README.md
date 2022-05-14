@@ -15,9 +15,11 @@ For Use
    npm install cli-color@latest
    ```
 
-2.Start the project\n
+2.Start the project
+```txt
 You can start by clicking the start.bat file.
-
-3.Important\n
+```
+3.Important
+```txt
 Please make sure the download Node.js.
-
+```
