@@ -12,8 +12,9 @@ It is generated randomly.
    npm install quick.db@latest
    npm install generate-password@latest
    npm install prompt-sync@latest
-   npm i cli-color@latest
+   npm install cli-color@latest
    ```
+
 2.Start the project
 You can start by clicking the start.bat file.
 
