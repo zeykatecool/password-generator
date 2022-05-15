@@ -1,5 +1,5 @@
 echo off
-title Password Generator | zeykatecool
+title zeykatecool
 color a
 cls
 :a
